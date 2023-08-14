@@ -7,9 +7,11 @@
     - Code functionalities are wrapped inside "packages".
 
 ### Intial Step ->
-
+    - Everytime when you create a folder or want to start writing code always initialise the module. 
+    - This makes application production ready.
     - `go mod init` --> similar to npm init
     -  Recommended --> `go mod init <githubRepoUrl>`
+    - Generates the go.mod file 
 
 ### GO IS AMAZING  ->
 
@@ -36,4 +38,8 @@
 
         - ADVANCE TYPES : Array , Slices , Maps, Structs , Pointers , Functions , Channels , Mutex ....
     
-    
+    -  `Creating a variable`
+        - use keyword "var"
+        - `var <variable_Name> dataType`
+        - Example var username string = "Poorvaditya"
+        
