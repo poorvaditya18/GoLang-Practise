@@ -7,15 +7,12 @@ import "fmt"
 // jwtToken := 300000 
 
 // but you can declare using var and dataType . It will correctly work. 
-var jwtToken int = 300000
+// var jwtToken int = 300000
 
 
 // Declaring Constant
 // NOTE : since we have made the starting of the variable as capital letter ==> This signifies that the variable is PUBLIC Variable. 
 const LoginToken string = "fsgdgsdgs" // Constants are not going to change . PUBLIC variable -> So this variable can be accessed from anywhere. 
-
-
-
 
 
 func main() {
