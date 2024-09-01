@@ -1,5 +1,4 @@
 # GOLANG ->
-
 ### What are packages in GO ->
 
     - a package is a way to group functions, and it's made up of all the files in the same directory.
