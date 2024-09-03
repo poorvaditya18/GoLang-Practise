@@ -42,5 +42,4 @@
       - Example: `var username string = "Poorvaditya"`
   
   - `go run .` -> cmnd both compiles and runs the program.
-  - 
   
